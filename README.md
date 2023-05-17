@@ -10,6 +10,7 @@ The datasets were imported into the PostgreSQL database automatically after crea
 <br> `brands` and `categories` : keys for the product attributes. </br>
 ## Data Analysis
 In this section, I wrote SQL queries to answer the following business questions:
+- Top 10 Brands with the most completed listings
 - Per customer, show number of total listings started, listings completed and listings sold; order by listings started descending?
 - Per customer, if True or False they listed items in Clothing, Bags, Shoes and Accessories categories?
 - Per seller: date of their first listing, date of their last listing, date of last sale and name of last action (completed list/sale)?
